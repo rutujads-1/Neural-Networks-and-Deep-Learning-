@@ -58,7 +58,7 @@ Consists of 5 blocks with varying configurations:
 
 ```
 
-Neural-Networks-Deep-Learning\
+Neural-Networks-and-Deep-Learning-\
 
 ├── NNDL_code.ipynb
 
